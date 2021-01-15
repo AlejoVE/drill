@@ -29,3 +29,9 @@
     color: black;
     background-color: white;
 }
+
+#button-2:hover {
+    transform: scale(1.2, 1.2);
+    color: black;
+    background-color: white;
+}
