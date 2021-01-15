@@ -6,7 +6,7 @@
 
 This project was developed as an CSS exercise, as part of the web development training at [BeCode Liege](https://github.com/becodeorg).
 
-You can check the site here: 
+- **You can check the site [here](https://alejove.github.io/drill/).**
 
 ## What I did
 - Three buttons animated on hover.
